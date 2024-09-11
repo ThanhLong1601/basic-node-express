@@ -1,0 +1,18 @@
+{
+  "name": "2-express-tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "2-express-tutorial": "file:",
+    "express": "^4.20.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.4"
+  }
+}
